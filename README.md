@@ -1,0 +1,2 @@
+# euplazyvim
+Lazyvim settings
