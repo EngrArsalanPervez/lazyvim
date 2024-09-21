@@ -9,7 +9,7 @@ sudo apt install python3-pynvim -y
 sudo ln -s /usr/bin/fdfind /usr/bin/fd
 fd
 
-sudo apt install tmux
+sudo apt install tmux fish luarocks
 ```
 
 ## Lazygit
