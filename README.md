@@ -74,6 +74,16 @@ x
 :Mason
 ```
 
+## multicursor.lua
+```bash
+nano ~/.config/nvim/lua/plugins/multicursor.lua
+return {
+  "mg979/vim-visual-multi",
+  branch = "master",
+  lazy = false, -- load immediately
+}
+```
+
 ## Source
 
 Project Implemented on [Academic Master](https://academic-master.com/)
